@@ -20,7 +20,7 @@
 3. **M3**：竖版漫画阅读页（Web）+ 导出短视频字幕轨  
 4. **M4**：系列管理后台最小版 + 白标皮肤  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
